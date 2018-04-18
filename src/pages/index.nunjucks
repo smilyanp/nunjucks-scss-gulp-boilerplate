@@ -1,0 +1,13 @@
+{% extends "layout.nunjucks" %}
+
+{% block title %}
+    &#8211; Page exended title
+{% endblock %}
+
+{% block page_class %}homepage{% endblock %}
+
+{% block content %}
+    
+    
+
+{% endblock %}

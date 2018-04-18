@@ -1,0 +1,27 @@
+<nav class="navbar navbar-toggleable-md navbar-inverse bg-inverse">
+  
+  <a class="navbar-brand" href="/">
+    <img src="images/logo.png" width="136" height="80">
+  </a>
+
+  <button 
+    class="navbar-toggler navbar-toggler-right" 
+    type="button" 
+    data-toggle="collapse" 
+    data-target="#main-menu" 
+    aria-controls="main-menu" 
+    aria-expanded="false" 
+    aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="main-menu">
+    <ul class="navbar-nav ml-auto">
+        <li class="nav-item">
+          <a class="nav-link" href="/">
+            Homepage
+          </a>
+        </li>
+    </ul>
+  </div>
+</nav>

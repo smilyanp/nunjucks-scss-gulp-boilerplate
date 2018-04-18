@@ -1,0 +1,31 @@
+{
+  "name": "Nunjucks boilerplate",
+  "version": "1.0.0",
+  "description": "A boilerplate that uses gulp, font-awesome, bootstrap and SCSS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-hash": "^4.2.2",
+    "gulp-notify": "^3.2.0",
+    "gulp-nunjucks-render": "^2.2.2",
+    "gulp-sass": "^4.0.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-uglifyjs": "^0.6.2"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1",
+    "tether": "^1.4.3"
+  }
+}
